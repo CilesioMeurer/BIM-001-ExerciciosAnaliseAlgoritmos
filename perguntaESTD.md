@@ -1,5 +1,5 @@
-#Estrutura de dados - Analise de Algoritmo
-###Aluno: Esteban Miguel Nallar
+# Estrutura de dados - Analise de Algoritmo
+### Aluno: Esteban Miguel Nallar
 
 # 1 Problema
 ### Quais sao as duas caracterısticas mais comuns para analisar algoritmos?
